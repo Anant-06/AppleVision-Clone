@@ -1,4 +1,3 @@
-AppleVision-Clone
 An interactive Apple Vision landing page clone, built using HTML, CSS, and JavaScript. This project replicates the look and feel of Apple's official Vision product page, including smooth animations, scroll-triggered effects, and responsive design.
 
 Features
